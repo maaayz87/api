@@ -1,2 +1,8 @@
-`sudo apt-get install jq`  
-`sudo mv ./ye.sh /usr/local/bin`  
+ye  
+```
+sudo apt-get install jq    
+```
+mySpotify  
+```
+pip install spotipy
+```
