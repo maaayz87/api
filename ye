@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# 获取并解析歌词
+curl -s https://api.kanye.rest/ | jq -r '.quote'
